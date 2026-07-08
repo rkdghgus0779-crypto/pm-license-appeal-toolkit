@@ -1,0 +1,15 @@
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.hwp
+*.hwpx
+*.docx
+private/
+raw/
+originals/
+secrets/
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
